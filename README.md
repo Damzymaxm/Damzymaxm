@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Damzymaxm
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on 🤔
-- 📫 How to reach me 
+- 🌱 I’m currently learning Javascript and python
+- 💞️ I’m looking to collaborate on any available project
+- 📫 How to reach me damzy95@gmail.com
 
 <!---
-Damzymaxm/Damzymaxm is an enthusiastic web developer✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Damzymaxm/Damzymaxm is an enthusiastic web developer
 --->
